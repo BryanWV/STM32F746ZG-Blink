@@ -1,5 +1,6 @@
 # STM32F746ZG-Blink
-Project using STM32F746 microcontroller and PlatformIO. <br>
-Mbed Framework. <br> <br>
-Blink User leds toggles at different speeds. <br>
-Main code located at src folder.
+## Description
+*Project using STM32F746 microcontroller and PlatformIO.* <br>
+* Framework: Mbed
+* Blink User LEDs toggles at different speeds
+* Main code for microcontroller located at src folder
